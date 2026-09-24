@@ -1,0 +1,25 @@
+# Environment variables / secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+
+# Chroma vector database
+chroma_db/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Uploaded user documents
+uploaded_documents/
+
+# Local/user documents
+documents/*.pdf

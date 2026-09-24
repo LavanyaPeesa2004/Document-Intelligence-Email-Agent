@@ -1,6 +1,3 @@
-Absolutely ❤️ Here is the **entire `README.md` in one single block** so you can copy everything at once and paste it directly into your `README.md`.
-
-````markdown
 # 🤖 Document Intelligence & Email Automation Agent
 
 A GenAI-powered intelligent assistant that combines **document intelligence, web search, conversational context, and email automation** into a single application.
